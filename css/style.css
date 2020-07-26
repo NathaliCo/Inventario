@@ -1,0 +1,23 @@
+
+nav{
+	height:60px;
+	background-color: gray;
+}
+footer{
+	margin-bottom:0;
+	
+}
+
+img{
+	width:1.2rem;
+	height: 1.2rem;
+}
+.search{
+	padding: 5rem;
+}
+.filters{
+	padding:1rem;
+}
+.input-number,.btn-number{
+	width: 2rem;
+}
